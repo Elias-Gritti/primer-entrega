@@ -1,3 +1,5 @@
+/*Te pide un numero y una palabra y en la consola pone la palabra la cantidad de veces segun el numero*/
+
 let numero = parseInt(prompt('Ingrese un numero: '))
 let palabra = prompt('Ingrese la palabra: ');
 
